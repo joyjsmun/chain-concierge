@@ -1,6 +1,6 @@
 ## Overview
 
-This is DAO Concierge, a bot that caters to all the needs you have for your DAO. From onboarding new users, asking questions about the DAO events, and automating the fundraising process for your DAO, DAO concierge will do it for you.
+This is Chain Concierge, a bot that summarizes all of your proposal requests for each protocol.
 
 This uses Langchain.
 
