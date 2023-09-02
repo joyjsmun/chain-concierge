@@ -8,7 +8,7 @@ from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 import streamlit as st
-st.title("Chain Reporter")
+st.title("Chain Concierge")
 
 def get_text():
     input_text = st.text_input("Type in the governance proposal below", key="input")
