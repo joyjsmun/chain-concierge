@@ -19,6 +19,4 @@ pip install bs4
 pip install python-dotenv
 pip install tiktoken
 pip install streamlit
-streamlit run chatbot.py
-
 ```
