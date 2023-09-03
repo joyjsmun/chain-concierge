@@ -1,8 +1,6 @@
 ## Overview
 
-This is Chain Concierge, a bot that summarizes all of your proposal requests for each protocol.
-
-This uses Langchain.
+Keep track of all the governance proposals that come up on DAOs with our Chain Reporter, which summarizes the key points of the proposals in an instant. You can publish this as a newsletter by linking it to your Gmail account, Slack, or Discord.
 
 ---
 
@@ -19,4 +17,5 @@ pip install bs4
 pip install python-dotenv
 pip install tiktoken
 pip install streamlit
+streamlit run chatbot.py
 ```

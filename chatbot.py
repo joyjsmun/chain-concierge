@@ -52,4 +52,5 @@ if(user_input):
     # st.write('**Result:** \n')
     # st.write(result)
 
-st.button("Send to gmail")
+st.button("Send to Gmail")
+st.button("Send to Twitter")
